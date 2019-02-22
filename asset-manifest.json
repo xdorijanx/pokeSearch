@@ -1,0 +1,15 @@
+{
+  "main.css": "/pokeSearch/static/css/main.b31e480d.chunk.css",
+  "main.js": "/pokeSearch/static/js/main.6f4a250f.chunk.js",
+  "main.js.map": "/pokeSearch/static/js/main.6f4a250f.chunk.js.map",
+  "static/css/1.c5d40e3e.chunk.css": "/pokeSearch/static/css/1.c5d40e3e.chunk.css",
+  "static/js/1.a1d5d574.chunk.js": "/pokeSearch/static/js/1.a1d5d574.chunk.js",
+  "static/js/1.a1d5d574.chunk.js.map": "/pokeSearch/static/js/1.a1d5d574.chunk.js.map",
+  "runtime~main.js": "/pokeSearch/static/js/runtime~main.abdf617c.js",
+  "runtime~main.js.map": "/pokeSearch/static/js/runtime~main.abdf617c.js.map",
+  "static/css/1.c5d40e3e.chunk.css.map": "/pokeSearch/static/css/1.c5d40e3e.chunk.css.map",
+  "static/css/main.b31e480d.chunk.css.map": "/pokeSearch/static/css/main.b31e480d.chunk.css.map",
+  "index.html": "/pokeSearch/index.html",
+  "precache-manifest.f7a96ea2a81e0629834ba480b1c0369b.js": "/pokeSearch/precache-manifest.f7a96ea2a81e0629834ba480b1c0369b.js",
+  "service-worker.js": "/pokeSearch/service-worker.js"
+}
